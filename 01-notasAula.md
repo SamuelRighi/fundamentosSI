@@ -23,6 +23,12 @@ Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
            - ARQUITETURA
               - Cliente-servidor
               - Ponto-a-ponto
+           - Modelos arquiteturais de serviço
+               - SaaS
+               - DBaaS
+               - PaaS
+               - DaaS
+               - IaaS
 
 ## Aula 3
 - Apresentação da Oficina de Git - https://github.com/alexandrezamberlan/oficinaGit
