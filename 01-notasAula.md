@@ -1,5 +1,29 @@
 Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
 
+## Aula 4
+- Fundamentos de SI
+   - Conceitos:
+      - Sistema
+         - partes
+         - tipos
+      - Computação ou processamento
+         - desktop
+         - web -> Cloud Computing - Computação em Nuvem
+           - Apps (software instalado em equipamento)
+           - Navegador
+           - IoT - Internet of Things
+           - VANTAGENS
+              - flexibilidade
+              - autonomia
+              - agilidade
+              - integração de tecnologias
+           - DESVANTAGENS
+              - segurança
+              - dependência
+           - ARQUITETURA
+              - Cliente-servidor
+              - Ponto-a-ponto
+
 ## Aula 3
 - Apresentação da Oficina de Git - https://github.com/alexandrezamberlan/oficinaGit
 - Apresentação, discussão e 1o trabalho avaliado
