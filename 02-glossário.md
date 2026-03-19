@@ -1,6 +1,31 @@
 # Glossário ou vocabulário da disciplina
 Neste arquivo, nós guarda palavras ou expressoes que não sabemos o que é
 
+# Tipos de Sistemas de Informação
+
+Esses sistemas se organizam hierarquicamente para apoiar operações e decisões, sendo eles: SPT, SIG, SAD, SAE/SIE e ERP/CRM
+
+## (SPT/OLTP) Sistemas de Processamento de Transações
+
+Processam dados do dia a dia, como vendas, estoque e pagamentos
+
+## (SIG) Sistemas de Informação Gerencial
+
+Pegam os dados do SPT para gerar relatórios estruturados, ajudando no monitoramento e controle
+
+## (SAD) Sistemas de Apoio à Decisão
+
+Analisam cenários e fornecem dados interativos para a tomada de decisões arriscadas
+
+## (SIE/SAE) Sistemas de Informação Estratégica/Executiva
+
+Pega as informações de todos os lugares (RH, Financeiro, Produção) e deixa tudo em uma plataforma só
+
+## (CRM/ERP) Sistemas de Gestão de Relacionamento com o Cliente
+
+Automação de vendas, marketing e atendimento ao cliente
+
+
 # Palavras ou expressões
 
 Os termos a seguir são modelos de serviços em computação em nuvem, onde ao invés de você comprar servidor, programas ou infraestrutura, uma empresa pela internet ti dá isso tudo como serviço.
