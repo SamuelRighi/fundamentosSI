@@ -1,4 +1,4 @@
-Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
+Nem t conto oq a gente faz aqui
 
 ## Aula 4
 - Fundamentos de SI
